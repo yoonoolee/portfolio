@@ -32,8 +32,15 @@ Welcome to my portfolio! Here is a summary of my data projects.
 
 # SQL
 
-| Project | Area of Analysis | Project Description | 
+| Project [TBD] | Area of Analysis [TBD] | Project Description [TBD] | 
 |---|---|---|
-| 💡 TBD | Data analysis, data cleaning, data transformation [TBD] | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Danny's Diner | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Pizza Runner | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Foodie-Fi | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Data Bank | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Data Mart | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Clique Bait | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Balanced Tree Clothing Co. | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
+| 💡 Fresh Segments | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | 
 
 ***
