@@ -10,7 +10,7 @@ Welcome to my portfolio! Here is a summary of my data projects.
 
 # Python
 
-| Project | Area [TBD] | Project Description [TBD] | Libraries [TBD] |    
+| Project | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🍽️ [Food.com Search Engine Project](https://github.com/yoonoolee/recipes_search_project/blob/main/recipes_final.ipynb) | `Text preprocessing` <br> `TF-IDF` | An enhanced recipe search engine for food.com that supports complex descriptions or dietary restrictions. | `pandas` <br> `numpy` <br> `nltk` <br> `sklearn` <br> `json` | 
 | 📷 [Classifying and Clustering Images](https://github.com/yoonoolee/classifying_and_clustering_images/blob/main/classifying_and_clustering_images.ipynb) | `PCA` <br> `Random Forest Classification` <br> `Dimensionality Reduction Visualization` <br> `KMeans` | Visualize clusters of digit images using various dimensionality reduction techniques. Group images of different individuals' faces. | `numpy` <br> `sklearn` <br> `SVC` <br> `PCA` <br> `TSNE` <br> `RandomForestClassifier` <br> `LocallyLinearEmbedding` <br> `KMeans` |
@@ -33,7 +33,7 @@ Welcome to my portfolio! Here is a summary of my data projects.
 
 # SQL
 
-| Project [TBD] | Area of Analysis [TBD] | Project Description [TBD] | 
+| Project | Area of Analysis | Project Description | 
 |---|---|---|
 | 🍜 Danny's Diner | Aggregate functions, window functions, filtering, conditional expressions | Explored a restaurant’s customer sales data to derive insights on visiting patterns, purchasing trends, and menu popularity. | 
 <!-- | 💡 Pizza Runner | Data analysis, data cleaning, data transformation [TBD] | 8 Week SQL Challenge [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. [TBD] | -->
